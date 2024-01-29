@@ -1,4 +1,6 @@
-Desarrollado en ASP.NET Core con React.js
+Este repositorio corresponde a una prueba tecnica realizada en 48 hs de una lista de notas que permite agregar y eliminar categorías en las mismas.
+
+Desarrollado en ASP.NET Core con React.js.
 
 - .NET 6.0
 - Microsoft.ASPNetCore.SpaProxy(6.0.6)
